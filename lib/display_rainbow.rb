@@ -5,4 +5,4 @@ def display_rainbow(colors)
   puts "R: #{colors[0]}"
 end
 
-display_rainbow(red)
+display_rainbow(colors)
